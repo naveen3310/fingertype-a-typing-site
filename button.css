@@ -1,0 +1,10 @@
+.setting a {
+    text-decoration: none;
+}
+
+.btn-menu-setting {
+    background-color: var(--theme-color);
+    color: var(--logo-color);
+    padding: 0.5rem 1.5rem;
+    border-radius: 5px;
+}
