@@ -8,16 +8,16 @@ Simple and easy to use design
 ## Dark Mode
 
 
-![App Screenshot](https://imgur.com/d8c0PsQ)
+![App Screenshot](https://i.imgur.com/d8c0PsQ.png)
 
 ## Light Mode
-![App Screenshot](https://imgur.com/ZnYdVrS)
+![App Screenshot](https://i.imgur.com/ZnYdVrS.png)
 
 # Setting
-![App Screenshot](https://imgur.com/ebD6CEf)
+![App Screenshot](https://i.imgur.com/ebD6CEf.png)
 
 # Final Score card
-![App Screenshot](https://imgur.com/a/I4gLM47)
+![App Screenshot](https://i.imgur.com/dpl4Ic4.png)
 
 ### made with ❤️ by Naveen Kumar
 
